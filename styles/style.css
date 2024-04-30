@@ -1,0 +1,74 @@
+body {
+  color: hsl(236, 13%, 42%);
+  font-family: "Inter", sans-serif;
+}
+body p {
+  font-size: 15px;
+}
+
+.navbar #logo {
+  color: hsl(240, 100%, 5%);
+}
+.navbar .nav-link:hover {
+  color: hsl(35, 77%, 62%);
+}
+
+.mainBody h1 {
+  color: hsl(240, 100%, 5%);
+  font-weight: 900;
+}
+.mainBody button {
+  background-color: hsl(5, 85%, 63%);
+  color: hsl(36, 100%, 99%);
+  transition: all 0.5s;
+}
+.mainBody button:hover {
+  background-color: hsl(240, 100%, 5%);
+  color: hsl(36, 100%, 99%);
+}
+
+.sider {
+  background-color: hsl(240, 100%, 5%);
+  color: hsl(233, 8%, 79%);
+  font-size: 15px;
+}
+.sider h2 {
+  color: hsl(35, 77%, 62%);
+  font-weight: 700;
+}
+.sider h6 {
+  color: hsl(36, 100%, 99%);
+  font-weight: 700;
+  transition: all 0.5s;
+}
+.sider h6:hover {
+  color: hsl(35, 77%, 62%);
+  cursor: pointer;
+}
+.sider hr {
+  background-color: hsl(36, 100%, 99%);
+  height: 2px;
+}
+
+.footer h5 {
+  color: hsl(233, 8%, 79%);
+  font-weight: 700;
+  font-size: x-large;
+}
+.footer h6 {
+  color: hsl(240, 100%, 5%);
+  font-weight: 900;
+  transition: all 0.5s;
+}
+.footer h6:hover {
+  color: hsl(5, 85%, 63%);
+  cursor: pointer;
+}
+.footer p {
+  color: hsl(236, 13%, 42%);
+  font-size: small;
+}
+
+.attribution a {
+  color: hsl(240, 100%, 5%);
+}/*# sourceMappingURL=style.css.map */
