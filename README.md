@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [News Homepage](https://razan-mahmoud.github.io/news-homepage-exercise/)
 
 ## My process
 
