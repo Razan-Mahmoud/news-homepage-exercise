@@ -25,9 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-[newsHomepage-screenshot.jpg]
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+![A screenshot of the top part of the news hompage challenge. It involves a picture of some building blocks, a part of a headline and a paragraph under the picture, and a side section.](/newsHomepage-screenshot.jpg)
 
 
 ### Links
