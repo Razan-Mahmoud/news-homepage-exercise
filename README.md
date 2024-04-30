@@ -50,10 +50,10 @@ This project was a good revision for the basics of HTML5, CSS3, Sass and Bootstr
 ## Author
 
 - Website - [Razan Mahmoud](https://github.com/Razan-Mahmoud)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Razan-Mahmoud](https://www.frontendmentor.io/profile/Razan-Mahmoud)
 
 
 ## Acknowledgments
 
-Thanks a lot to the talented Aya Ali, whom I studied Frontend Web Development with about 2 years ago. It was really a pleasure :)
-https://www.linkedin.com/in/aya-ali-b5a3ab12b/
+Thanks a lot to the talented [Aya Ali](https://www.linkedin.com/in/aya-ali-b5a3ab12b/), with whom I studied Frontend Web Development about 2 years ago. I still check the toturials whenever I need to be sure about some syntax or concept. It was really a pleasure :)
+
